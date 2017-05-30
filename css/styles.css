@@ -1,0 +1,36 @@
+/*
+font-family: 'Indie Flower', cursive;
+font-family: 'Oxygen', sans-serif;
+*/
+
+body{
+  background-color:orange;
+  font-family: 'Oxygen', sans-serif;
+}
+h1{
+	font-size:80px;
+	margin:50px;
+	font-family: 'Indie Flower', cursive;
+}
+
+#quote {
+  background-color: lightgrey;
+  border-color:black;
+  border-radius:100px;
+  display:block;
+  
+}
+
+p{
+	padding:20px;
+	max-width:80%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#getQ {
+  border-color:black;
+  background-color:lightgrey;
+  border-radius:100px;
+  margin:30px;
+}
